@@ -42,6 +42,6 @@ public class Main {
             // converto il contenuto dello StringBuilder in una stringa che può essere stampata.
             System.out.println(risultato.toString());
         }
-
+        scanner.close();
     }
 }
